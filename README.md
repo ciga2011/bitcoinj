@@ -37,6 +37,10 @@ gradle clean assemble
 
 Alternatively, just import the project using your IDE. [IntelliJ](http://www.jetbrains.com/idea/download/) has Gradle integration built-in and has a free Community Edition. Simply use `File | New | Project from Existing Sources` and locate the `build.gradle` in the root of the cloned project source tree.
 
+### Tutorials
+
+- [Programming Bitcoin Application in Java](http://xc.hubwiz.com/course/5c766a59f54a5e207931b5a5?affid=github7878)
+
 ### Example applications
 
 These are found in the `examples` module.
